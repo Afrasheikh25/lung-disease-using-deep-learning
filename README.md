@@ -51,7 +51,4 @@ Deployed using **Streamlit**:
 - [Kaggle Dataset 1](https://www.kaggle.com/datasets/amrutasalagare/lung-disease-dataset)
 - [Kaggle Dataset 2](https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types)
 
----
-
-> “AI won’t replace doctors, but doctors who use AI will replace those who don’t.”
 
