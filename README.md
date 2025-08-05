@@ -1,7 +1,9 @@
  Lung Disease Classification Using Deep Learning 🩺🧠
+ 
        This project classifies chest X-ray images into four categories: **COVID-19**, **Pneumonia**, **Tuberculosis**, and **Normal** using a **fine-tuned VGG19 model** with transfer learning.
 
 📌 Overview:
+
 Lung diseases like pneumonia, tuberculosis, and COVID-19 are among the leading causes of death globally. Timely and accurate diagnosis via CXR images can be life-saving — yet manual analysis is time-consuming and error-prone.
 Our solution uses **Deep Learning (CNN + Transfer Learning)** to automate and enhance CXR image classification with **96% accuracy**, improving efficiency and clinical reliability.
 
@@ -34,12 +36,14 @@ Our solution uses **Deep Learning (CNN + Transfer Learning)** to automate and en
 - 🧪 Evaluated with confusion matrix, classification reports & real-world samples
  
  🌐 Deployment
+ 
 Deployed using **Streamlit**:
 - Upload a chest X-ray image (.jpg/.png)
 - Model predicts disease class with confidence
 - User-friendly web UI for non-technical users
 
 👨‍💻 Authors
+
 - [Afra Jabeen](https://www.linkedin.com/in/afra-jabeen-a00956309/)
 
 📁 Dataset
